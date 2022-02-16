@@ -1,0 +1,10 @@
+## Interface: 20503
+## Title: Refined Loot Priority
+## Notes: Prio Tooltips for refined litst
+## Author: Sucuk (Prepared), modified for refined-Venoxis
+## Version: 0.2a
+## X-Credits: Sucuk (for the main code)
+
+loot_table.lua
+main_functions.lua
+loot_prio_hook.lua
