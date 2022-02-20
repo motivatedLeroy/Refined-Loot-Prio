@@ -1,6 +1,6 @@
 RLP_version = 1
 Run_loot_table = {
------ Ewü  2022/02/10 P2 Loot
+----- EwÃ¼  2022/02/10 P2 Loot
 ----- Lome 2022/02/11 P3 Loot
 -----
 -----SSC
@@ -180,7 +180,7 @@ Run_loot_table = {
 -----Anetheron
 {["loot_id"] = "30888", ["loot_name"] = "Anetheron's Noose", ["prio"] = "Prio: FFA",},
 {["loot_id"] = "30883", ["loot_name"] = "Pillar of Ferocity", ["prio"] = "Prio: FFA",},
-{["loot_id"] = "30882", ["loot_name"] = "Bastion of Light", ["prio"] = "Prio: Enha > Rest",},
+{["loot_id"] = "30882", ["loot_name"] = "Bastion of Light", ["prio"] = "Prio: Resto Schami > Rest",},
 {["loot_id"] = "30881", ["loot_name"] = "Blade of Infamy", ["prio"] = "Prio: FFA",},
 {["loot_id"] = "30879", ["loot_name"] = "Don Alejandro's Money Belt", ["prio"] = "Prio: SV > Rest",},
 {["loot_id"] = "30886", ["loot_name"] = "Enchanted Leather Sandals", ["prio"] = "Prio: FFA",},
