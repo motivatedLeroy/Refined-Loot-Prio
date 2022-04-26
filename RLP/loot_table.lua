@@ -233,7 +233,7 @@ Run_loot_table = {
 -----Black Temple
 -----Thrashloot
 {["loot_id"] = "32526", ["loot_name"] = "Band of Devastation", ["prio"] = "Prio: Retri > Rest",},
-{["loot_id"] = "32527", ["loot_name"] = "Ring of Ancient Knowledge", ["prio"] = "Balance/Shadow/Ele* > Rest (* erst wenn alle Caster einen haben)",},
+{["loot_id"] = "32527", ["loot_name"] = "Ring of Ancient Knowledge", ["prio"] = "Prio: Balance/Shadow/Ele* > Rest (* erst wenn alle Caster einen haben)",},
 {["loot_id"] = "32528", ["loot_name"] = "Blessed Band of Karabor", ["prio"] = "Prio: Resto Druide* > Rest* (erstmal nur einen Ring)",},
 {["loot_id"] = "32593", ["loot_name"] = "Treads of the Den Mother", ["prio"] = "Prio: Feral > Rest",},
 {["loot_id"] = "32606", ["loot_name"] = "Girdle of the Lightbearer", ["prio"] = "Prio: FFA",},
