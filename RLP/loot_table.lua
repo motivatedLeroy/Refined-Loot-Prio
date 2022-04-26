@@ -178,7 +178,7 @@ Run_loot_table = {
 {["loot_id"] = "30873", ["loot_name"] = "Stillwater Boots", ["prio"] = "Prio: FFA",},
 {["loot_id"] = "30869", ["loot_name"] = "Howling Wind Bracers", ["prio"] = "Prio: FFA",},
 -----Anetheron
-{["loot_id"] = "30888", ["loot_name"] = "Anetheron's Noose", ["prio"] = "Prio: FFA",},
+{["loot_id"] = "30888", ["loot_name"] = "Anetheron's Noose", ["prio"] = "Mage > Rest",},
 {["loot_id"] = "30883", ["loot_name"] = "Pillar of Ferocity", ["prio"] = "Prio: FFA",},
 {["loot_id"] = "30882", ["loot_name"] = "Bastion of Light", ["prio"] = "Prio: Resto Schami > Rest",},
 {["loot_id"] = "30881", ["loot_name"] = "Blade of Infamy", ["prio"] = "Prio: FFA",},
@@ -233,7 +233,7 @@ Run_loot_table = {
 -----Black Temple
 -----Thrashloot
 {["loot_id"] = "32526", ["loot_name"] = "Band of Devastation", ["prio"] = "Prio: Retri > Rest",},
-{["loot_id"] = "32527", ["loot_name"] = "Ring of Ancient Knowledge", ["prio"] = "Prio: Shadow *, Warlock > Rest ** (erstmal nur einen Ring)",},
+{["loot_id"] = "32527", ["loot_name"] = "Ring of Ancient Knowledge", ["prio"] = "Balance/Shadow/Ele* > Rest (* erst wenn alle Caster einen haben)",},
 {["loot_id"] = "32528", ["loot_name"] = "Blessed Band of Karabor", ["prio"] = "Prio: Resto Druide* > Rest* (erstmal nur einen Ring)",},
 {["loot_id"] = "32593", ["loot_name"] = "Treads of the Den Mother", ["prio"] = "Prio: Feral > Rest",},
 {["loot_id"] = "32606", ["loot_name"] = "Girdle of the Lightbearer", ["prio"] = "Prio: FFA",},
@@ -341,7 +341,7 @@ Run_loot_table = {
 {["loot_id"] = "32376", ["loot_name"] = "Forest Prowler's Helm", ["prio"] = "Prio: Ret > Hunter > Rest",},
 {["loot_id"] = "32331", ["loot_name"] = "Cloak of the Illidari Council", ["prio"] = "Prio: FFA",},
 {["loot_id"] = "32373", ["loot_name"] = "Helm of the Illidari Shatterer", ["prio"] = "Prio: DPS Warri > Retri",},
-{["loot_id"] = "32505", ["loot_name"] = "Madness of the Betrayer", ["prio"] = "Prio: DPS Warrior > BM > Rest",},
+{["loot_id"] = "32505", ["loot_name"] = "Madness of the Betrayer", ["prio"] = "Prio: FFA, aber abhängig von derzeitigen Trinkets (ZA Trinket ist oft besser)",},
 {["loot_id"] = "32518", ["loot_name"] = "Veil of Turning Leaves", ["prio"] = "Prio: FFA",},
 -----Illidan
 {["loot_id"] = "32837", ["loot_name"] = "Warglaive of Azzinoth", ["prio"] = "lol",},
@@ -349,16 +349,16 @@ Run_loot_table = {
 {["loot_id"] = "31089", ["loot_name"] = "Chestguard of the Forgotten Conqueror", ["prio"] = "Prio: Prot Pala > Shadow > Rest",},
 {["loot_id"] = "31091", ["loot_name"] = "Chestguard of the Forgotten Protector", ["prio"] = "Prio: Resto, Ele, Hunter, Warrior > Enha",},
 {["loot_id"] = "31090", ["loot_name"] = "Chestguard of the Forgotten Vanquisher", ["prio"] = "Prio: Feral > Rogue > Rest",},
-{["loot_id"] = "32374", ["loot_name"] = "Zhar'doom, Greatstaff of the Devourer", ["prio"] = "Prio: Shadow > Warlock > Rest",},
+{["loot_id"] = "32374", ["loot_name"] = "Zhar'doom, Greatstaff of the Devourer", ["prio"] = "Prio: Shadow > Destro > Affli/Mage > Balance > Ele",},
 {["loot_id"] = "32375", ["loot_name"] = "Bulwark of Azzinoth", ["prio"] = "Prio: Prot Warri > Prot Pala",},
-{["loot_id"] = "32500", ["loot_name"] = "Crystal Spire of Karabor", ["prio"] = "Prio:  Priest, Resto Sham > Holy Pala > Rest",},
+{["loot_id"] = "32500", ["loot_name"] = "Crystal Spire of Karabor", ["prio"] = "*Prio:  Priest, Resto Sham > Holy Pala > Rest *bisherige MH prüfen",},
 {["loot_id"] = "32336", ["loot_name"] = "Black Bow of the Betrayer", ["prio"] = "Prio: SV > BM",},
 {["loot_id"] = "32521", ["loot_name"] = "Faceplate of the Impenetrable", ["prio"] = "Prio: Prot Warri > Prot Pala",},
 {["loot_id"] = "32525", ["loot_name"] = "Cowl of the Illidari High Lord", ["prio"] = "Prio: FFA",},
 {["loot_id"] = "32235", ["loot_name"] = "Cursed Vision of Sargeras", ["prio"] = "Prio: Enha > BM, Fury > Rest",},
 {["loot_id"] = "32496", ["loot_name"] = "Memento of Tyrande", ["prio"] = "Prio: FFA",},
 {["loot_id"] = "32471", ["loot_name"] = "Shard of Azzinoth", ["prio"] = "Prio: FFA",},
-{["loot_id"] = "32524", ["loot_name"] = "Shroud of the Highborne", ["prio"] = "Prio: Healer > Rest",},
+{["loot_id"] = "32524", ["loot_name"] = "Shroud of the Highborne", ["prio"] = "Caster > Rest (gibt jetzt Alternativen)",},
 {["loot_id"] = "32483", ["loot_name"] = "The Skull of Gul'dan", ["prio"] = "Prio: Warlock > Rest",},
 {["loot_id"] = "32497", ["loot_name"] = "Stormrage Signet Ring", ["prio"] = "Prio: Rogue*, Fury*, Enha* > Rest",},
 -----
